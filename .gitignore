@@ -60,3 +60,6 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+source/convolutional_net/LearningAlgorithm/data.pkl
+source/convolutional_net/LearningAlgorithm/mnist.pkl.gz
